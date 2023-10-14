@@ -1,9 +1,10 @@
 body {
-    font-family: Roboto, sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 14px;
     line-height: 1.5;
-    background-color: #F4F4FD;
-    color: #2E2F42;
+    background-color: #FFFFFF;
+    color: #434455;
 }
 
 ul{
@@ -44,31 +45,29 @@ color: white;
     word-wrap: break-word
 }
 .logo-link{
-        font-size: 18px;
-        text-decoration: none;
-        font-weight: 700;
+    font-family: 'Raleway', sans-serif;
+    text-decoration: none;
         text-transform: uppercase;
-        letter-spacing: 0.54px;
-        word-wrap: break-word
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        word-wrap: break-word;
+        color: #4D5AE5;
 }
 .logo{
-        font-size: 18px;
-        color: #4D5AE5;
-        font-weight: 700;
-        text-transform: uppercase;
-        letter-spacing: 0.54px;
-        word-wrap: break-word
+color: #2e2f42
 }
 .page-nav{
             font-weight: 500;
             letter-spacing: 0.32px;
-            word-wrap: break-word
+            word-wrap: break-word;
 }
 .contacts-list .link{
     color:#434455;;
         font-weight: 400;
         letter-spacing: 0.32px;
-        word-wrap: break-word 
+        word-wrap: break-word;
 }
 .hero-title{
     color: white;
@@ -77,7 +76,7 @@ color: white;
         font-weight: 700;
         line-height: 60px;
         letter-spacing: 1.12px;
-        word-wrap: break-word
+        word-wrap: break-word;
 }
 .hero-section{
     background-color: #2E2F42;
@@ -86,12 +85,12 @@ color: white;
     font-size: 20px;
     font-weight: 500;
     letter-spacing: 0.40px;
-    word-wrap: break-word
+    word-wrap: break-word;
 }
 .benefits-list .item-text{
         font-weight: 400;
         letter-spacing: 0.32px;
-        word-wrap: break-word
+        word-wrap: break-word;
 }
 .team-section{
     background-color: #F4F4FD;
@@ -101,36 +100,36 @@ color: white;
         font-weight: 700;
         text-transform: capitalize;
         letter-spacing: 0.72px;
-        word-wrap: break-word
+        word-wrap: break-word;
 }
 .team-list .item-title{
     font-size: 20px;
     font-weight: 500;
     letter-spacing: 0.40px;
-    word-wrap: break-word
+    word-wrap: break-word;
 }
 .team-list .item-text{
         font-weight: 400;
         letter-spacing: 0.32px;
-        word-wrap: break-word
+        word-wrap: break-word;
 }
 .portfolio-section-title{
         font-size: 36px;
         font-weight: 700;
         text-transform: capitalize;
         letter-spacing: 0.72px;
-        word-wrap: break-word
+        word-wrap: break-word;
 }
 .portfolio-list .item-title{
         font-size: 20px;
         font-weight: 500;
         letter-spacing: 0.40px;
-        word-wrap: break-word
+        word-wrap: break-word;
 }
 .portfolio-list .item-text{
     font-weight: 400;
     letter-spacing: 0.32px;
-    word-wrap: break-word
+    word-wrap: break-word;
 }
 .footer-page{
     background-color: #2E2F42;
@@ -143,7 +142,7 @@ color: white;
         font-weight: 700;
         text-transform: uppercase;
         letter-spacing: 0.54px;
-        word-wrap: break-word   
+        word-wrap: break-word;   
 }
 .footer-logo{
 color: #4D5AE5;
@@ -152,11 +151,11 @@ color: #4D5AE5;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.54px;
-    word-wrap: break-word
+    word-wrap: break-word;
 }
 .footer-text{
     color: #F4F4FD;
         font-weight: 400;
         letter-spacing: 0.32px;
-        word-wrap: break-word
+        word-wrap: break-word;
 }
