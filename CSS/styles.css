@@ -41,7 +41,7 @@ list-style: none;
         word-wrap: break-word;
 }
 
-/* Herro section */
+/* Hero section */
 .order-button{
     line-height: 1.5;
     font-size: 16px;
@@ -82,7 +82,6 @@ color: white;
 color: #404bbf;
 }
 
-/* Hero section */
 .hero-title{
     text-align: center;
     color:#ffffff;
@@ -90,7 +89,7 @@ color: #404bbf;
         font-family: Roboto;
         font-weight: 700;
         line-height: 1.07;
-        letter-spacing: 0,02em;
+        letter-spacing: 0.02em;
         word-wrap: break-word;
 }
 .hero-section{
@@ -107,7 +106,7 @@ color: #404bbf;
     word-wrap: break-word;
 }
 .benefits-list .item-text{
-        ont-size: 16px;
+        font-size: 16px;
         font-weight: 400;
         letter-spacing: 0.02em;
         word-wrap: break-word;
@@ -182,7 +181,7 @@ color: #404bbf;
     line-height: 1.17;
         text-decoration: none;
         font-size: 18px;
-        font-family: 'Raleway', sans-serif
+        font-family: 'Raleway', sans-serif;
         font-weight: 700;
         text-transform: uppercase;
         letter-spacing: 0.54px;
@@ -191,11 +190,11 @@ color: #404bbf;
 .footer-logo{
 color: #f4f4fd;
     font-size: 18px;
-    font-family: Raleway;
+    font-family: 'Raleway' sans-serif;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.54px;
-    word-wrap: break-word;
+    word-wrap : break-word;
 }
 .footer-text{
     color: #F4F4FD;
