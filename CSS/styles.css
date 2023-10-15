@@ -1,14 +1,14 @@
 body {
     font-family: 'Raleway', sans-serif;
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
     font-size: 14px;
     line-height: 1.5;
     background-color: #FFFFFF;
     color: #434455;
 }
 
-ul{
-list-style: none;
+ul {
+    list-style: none;
 }
 
 .logo-link {
@@ -24,53 +24,60 @@ list-style: none;
 }
 
 .logo {
-    color: #2e2f42
+    color: #2e2f42;
 }
+
 .page-nav .link {
+    line-height: 1.5;
     color: #2e2f42;
     font-size: 16px;
     font-weight: 500;
     letter-spacing: 0.02em;
     word-wrap: break-word;
 }
+
 .page-nav .link:hover,
 .page-nav .link:focus {
     color: #404BBF;
-        font-weight: 500;
-        letter-spacing: 0.32px;
-        word-wrap: break-word;
+    font-weight: 500;
+    letter-spacing: 0.32px;
+    word-wrap: break-word;
 }
 
 /* Hero section */
-.order-button{
+.order-button {
     line-height: 1.5;
     font-size: 16px;
     background-color: #4D5AE5;
     cursor: pointer;
     color: white;
-        font-weight: 500;
-        letter-spacing: 0.04em;
-        word-wrap: break-word;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    word-wrap: break-word;
 }
+
 button:hover,
-button:focus{
+button:focus {
     background-color: #404BBF;
-color: white;
+    color: white;
     font-weight: 500;
     letter-spacing: 0.64px;
     word-wrap: break-word;
 }
 
-.contacts{
+.contacts {
     font-style: normal;
 }
-.contacts-list .link{
+
+.contacts-list .link {
     letter-spacing: 0.02em;
     font-size: 16px;
-    color:#434455;;
-        font-weight: 400;
-        word-wrap: break-word;
+    color: #434455;
+    ;
+    font-weight: 400;
+    word-wrap: break-word;
 }
+
 .contacts-list .link:hover,
 .contacts-list .link:active {
     color: #404BBF;
@@ -78,59 +85,65 @@ color: white;
     letter-spacing: 0.32px;
     word-wrap: break-word;
 }
-.contacts-list .link:focus{
-color: #404bbf;
+
+.contacts-list .link:focus {
+    color: #404bbf;
 }
 
-.hero-title{
+.hero-title {
     text-align: center;
-    color:#ffffff;
-        font-size: 56px;
-        font-family: Roboto;
-        font-weight: 700;
-        line-height: 1.07;
-        letter-spacing: 0.02em;
-        word-wrap: break-word;
+    color: #ffffff;
+    font-size: 56px;
+    font-family: Roboto;
+    font-weight: 700;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    word-wrap: break-word;
 }
-.hero-section{
+
+.hero-section {
     background-color: #2E2F42;
 }
 
 /* Benefits section */
-.benefits-list .item-title{
+.benefits-list .item-title {
     line-height: 1.2;
-        color: #2e2f42;
+    color: #2e2f42;
     font-size: 20px;
     font-weight: 500;
     letter-spacing: 0.40px;
     word-wrap: break-word;
 }
-.benefits-list .item-text{
-        font-size: 16px;
-        font-weight: 400;
-        letter-spacing: 0.02em;
-        word-wrap: break-word;
+
+.benefits-list .item-text {
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0.02em;
+    word-wrap: break-word;
 }
 
 /* Team section */
-.team-section{
+.team-section {
     background-color: #F4F4FD;
 }
-.team-section-title{
-        color: #2e2f42;
-        text-align: center;
-        line-height: 1.11;
-        font-size: 36px;
-        font-weight: 700;
-        text-transform: capitalize;
-        letter-spacing: 0.72px;
-        word-wrap: break-word;
+
+.team-section-title {
+    color: #2e2f42;
+    text-align: center;
+    line-height: 1.11;
+    font-size: 36px;
+    font-weight: 700;
+    text-transform: capitalize;
+    letter-spacing: 0.72px;
+    word-wrap: break-word;
 }
-    .team-list .item{
+
+.team-list .item {
     background-color: #FFFFFF;
 
 }
-.team-list .item-title{
+
+.team-list .item-title {
     color: #2e2f42;
     line-height: 1.2;
     font-size: 20px;
@@ -138,67 +151,73 @@ color: #404bbf;
     letter-spacing: 0.02em;
     word-wrap: break-word;
 }
-.team-list .item-text{
-        font-size: 16px;
-        font-weight: 400;
-        letter-spacing: 0.02em;
-        word-wrap: break-word;
+
+.team-list .item-text {
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0.02em;
+    word-wrap: break-word;
 }
 
 /* Portfolio section */
-.portfolio-section-title{
-        text-align: center;
-        line-height: 1.1;
-        font-size: 36px;
-        font-weight: 700;
-        text-transform: capitalize;
-        letter-spacing: 0.02em;
-        word-wrap: break-word;
-        color: #2e2f42;
+.portfolio-section-title {
+    text-align: center;
+    line-height: 1.1;
+    font-size: 36px;
+    font-weight: 700;
+    text-transform: capitalize;
+    letter-spacing: 0.02em;
+    word-wrap: break-word;
+    color: #2e2f42;
 }
-.portfolio-list .item-title{
-        line-height: 1.2;
-        font-size: 20px;
-        font-weight: 500;
-        letter-spacing: 0.02em;
-        word-wrap: break-word;
-        color: #2e2f42;
+
+.portfolio-list .item-title {
+    line-height: 1.2;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    word-wrap: break-word;
+    color: #2e2f42;
 }
-.portfolio-list .item-text{
-    font-size: 16px; 
-    font-weight: 400; 
+
+.portfolio-list .item-text {
+    font-size: 16px;
+    font-weight: 400;
     letter-spacing: 0.02em;
     word-wrap: break-word;
     color: #434455;
 }
 
 /* FOOTER */
-.footer-page{
+.footer-page {
     background-color: #2E2F42;
 }
-.logo-page-link{
+
+.logo-page-link {
     color: #4d5ae5;
     line-height: 1.17;
-        text-decoration: none;
-        font-size: 18px;
-        font-family: 'Raleway', sans-serif;
-        font-weight: 700;
-        text-transform: uppercase;
-        letter-spacing: 0.54px;
-        word-wrap: break-word; 
+    text-decoration: none;
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.54px;
+    word-wrap: break-word;
 }
-.footer-logo{
-color: #f4f4fd;
+
+.footer-logo {
+    color: #f4f4fd;
     font-size: 18px;
     font-family: 'Raleway' sans-serif;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.54px;
-    word-wrap : break-word;
+    word-wrap: break-word;
 }
-.footer-text{
+
+.footer-text {
     color: #F4F4FD;
-        font-weight: 400;
-        letter-spacing: 0.02em;
-        word-wrap: break-word;
+    font-weight: 400;
+    letter-spacing: 0.02em;
+    word-wrap: break-word;
 }
