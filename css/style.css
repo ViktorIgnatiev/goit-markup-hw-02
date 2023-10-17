@@ -6,9 +6,13 @@ body {
     color: #434455;
 }
 
-ul {
-    list-style: none;
+.item{
+list-style-type: none ;
 }
+.link {
+    text-decoration: none;
+}
+
 
 .logo-link {
     font-family: 'Raleway', sans-serif;
@@ -140,7 +144,6 @@ button:focus {
 
 .team-list .item {
     background-color: #FFFFFF;
-
 }
 
 .team-list .item-title {
